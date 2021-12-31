@@ -74,7 +74,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://ciropastore.it)
+- Website - [Ciro](https://ciropastore.it)
 - Frontend Mentor - [@ciro-pastore](https://www.frontendmentor.io/profile/ciro-pastore)
 
 
